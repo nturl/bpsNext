@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-press-start-2p: "Press Start 2P";
+
+  /* font sizes */
+  --font-size-7xl: 26px;
+  --font-size-5xs: 8px;
+
+  /* Colors */
+  --color-blue: #0000ff;
+  --color-white: #fff;
+}

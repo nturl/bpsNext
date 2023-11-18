@@ -1,0 +1,178 @@
+.playpicLogoIcon {
+  position: absolute;
+  height: 100%;
+  width: 54.12%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 45.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.poweredBy {
+  position: absolute;
+  top: 25.14%;
+  left: 0;
+}
+.poweredByPlaypic {
+  position: absolute;
+  top: 782px;
+  left: 98px;
+  width: 194px;
+  height: 15.91px;
+}
+.btnBackground,
+.titleLogoIcon {
+  position: absolute;
+  top: 85px;
+  left: 120px;
+  width: 149px;
+  height: 67px;
+}
+.btnBackground {
+  height: 95.78%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 4.22%;
+  left: 0;
+  border: 4px solid var(--color-white);
+  box-sizing: border-box;
+}
+.join {
+  position: absolute;
+  height: 82.67%;
+  width: 73.86%;
+  top: 17.33%;
+  left: 13.07%;
+  line-height: 48px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.buttonJoinMatch {
+  position: absolute;
+  height: 50.34%;
+  width: 100%;
+  top: 49.66%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+}
+.inputEmailAddressChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #0000ca;
+  width: 329px;
+  height: 56px;
+}
+.matchCode {
+  position: absolute;
+  top: 7px;
+  left: 95px;
+  line-height: 48px;
+  opacity: 0.5;
+}
+.inputEmailAddress {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 329px;
+  height: 56px;
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+}
+.joinMatch {
+  position: absolute;
+  height: 50.68%;
+  width: 100%;
+  top: 49.32%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.playLobbyActionsChild {
+  position: absolute;
+  top: 109px;
+  left: -2px;
+  border-top: 4px solid var(--color-white);
+  box-sizing: border-box;
+  width: 333px;
+  height: 4px;
+}
+.btnBackground1 {
+  height: 95.78%;
+  top: 0;
+  bottom: 4.22%;
+  background-color: var(--color-white);
+}
+.btnBackground1,
+.buttonNewMatch,
+.playLobbyActions {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.buttonNewMatch {
+  height: 25.51%;
+  top: 0;
+  bottom: 74.49%;
+  cursor: pointer;
+  color: var(--color-blue);
+}
+.playLobbyActions {
+  height: 69.67%;
+  top: 30.33%;
+  bottom: 0;
+}
+.player,
+.satoshi {
+  position: absolute;
+  line-height: 48px;
+}
+.satoshi {
+  height: 58.49%;
+  width: 100%;
+  top: 41.51%;
+  left: 0;
+  display: inline-block;
+}
+.player {
+  top: 0;
+  left: 30.04%;
+  font-size: var(--font-size-sm);
+}
+.playerInfo,
+.preGame {
+  position: absolute;
+  height: 25.12%;
+  width: 73.86%;
+  top: 0;
+  right: 13.07%;
+  bottom: 74.88%;
+  left: 13.07%;
+}
+.preGame {
+  height: 50%;
+  width: 84.36%;
+  top: 28.79%;
+  right: 7.95%;
+  bottom: 21.21%;
+  left: 7.69%;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+}
+.startScreenBlue {
+  position: relative;
+  background-color: var(--color-blue);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-press-start-2p);
+}

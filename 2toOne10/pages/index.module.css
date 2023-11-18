@@ -1,0 +1,149 @@
+.playpicLogoIcon {
+  position: absolute;
+  height: 100%;
+  width: 54.12%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 45.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.poweredBy {
+  position: absolute;
+  top: 25.14%;
+  left: 0;
+}
+.poweredByPlaypic {
+  position: absolute;
+  top: 782px;
+  left: 98px;
+  width: 194px;
+  height: 15.91px;
+  text-align: right;
+  font-size: var(--font-size-5xs);
+}
+.btnBackground,
+.titleLogoIcon {
+  position: absolute;
+  top: 85px;
+  left: 120px;
+  width: 149px;
+  height: 67px;
+}
+.btnBackground {
+  height: 95.78%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 4.22%;
+  left: 0;
+  border: 4px solid var(--color-white);
+  box-sizing: border-box;
+}
+.done {
+  position: absolute;
+  height: 82.67%;
+  width: 73.86%;
+  top: 17.33%;
+  left: 13.07%;
+  line-height: 48px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.btnBackground1,
+.joinMatch {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.joinMatch {
+  height: 44.38%;
+  top: 55.62%;
+  cursor: pointer;
+}
+.btnBackground1 {
+  height: 100%;
+  top: 0;
+  background-color: var(--color-white);
+}
+.playAgain {
+  position: absolute;
+  top: 18.1%;
+  left: 10.33%;
+  line-height: 48px;
+  text-transform: uppercase;
+}
+.buttonNewMatch,
+.playLobbyActions,
+.preGame {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.buttonNewMatch {
+  height: 42.5%;
+  bottom: 57.5%;
+  cursor: pointer;
+  color: var(--color-blue);
+}
+.playLobbyActions,
+.preGame {
+  height: 100%;
+  bottom: 0;
+}
+.preGame {
+  height: 20.02%;
+  width: 84.36%;
+  top: 60.43%;
+  right: 7.95%;
+  bottom: 19.55%;
+  left: 7.69%;
+}
+.youreIn {
+  margin: 0;
+}
+.div,
+.winloss,
+.youreInTheContainer {
+  position: absolute;
+  top: 43.96%;
+  left: 19.74%;
+  line-height: 48px;
+}
+.div,
+.winloss {
+  top: 0;
+  left: 0;
+}
+.winloss {
+  top: 54.29%;
+  left: 17.17%;
+  font-size: 16px;
+}
+.winlossRatio {
+  position: absolute;
+  height: 12.44%;
+  width: 50.77%;
+  top: 29.74%;
+  right: 24.62%;
+  bottom: 57.82%;
+  left: 24.62%;
+  font-size: 66px;
+}
+.startScreenBlue {
+  position: relative;
+  background-color: var(--color-blue);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--color-white);
+  font-family: var(--font-press-start-2p);
+}
